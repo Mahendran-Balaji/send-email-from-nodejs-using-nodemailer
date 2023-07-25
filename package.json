@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_nodemailer",
+  "version": "1.0.0",
+  "description": "Sendmail from node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.4"
+  }
+}
